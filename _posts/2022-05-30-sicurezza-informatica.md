@@ -20,4 +20,4 @@ I malware (software malevoli) sono qualsiasi programma creato allo scopo di caus
 Per saper comprendere meglio i dati intorno a noi è anche necessario conoscere, capire e saper usare grafici e strumenti che ci permettano di condividere più facilmente informazioni di molti tipi. Ogni grafico ha l'obiettivo di analizzare un certo fenomeno raccogliendo ed elaborando dati e mostrarlo in una forma maggiormente comprensibile, diversi tipi di grafico consentono di analizzare problemi differenti con più facilità. Dai grafici si è in grado di trarre conclusioni che ci aiutano a comprendere la matematica intorno a noi.
 
 Esempio di grafico:
-![Casi di COVID-19 dall'inizio](https://i.imgur.com/ZvSP0tv.png)
+![Casi di COVID-19 dall'inizio](https://i.postimg.cc/pTPnrNpq/covid.png)
