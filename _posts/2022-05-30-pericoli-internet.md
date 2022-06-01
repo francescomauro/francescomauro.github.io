@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "I pericoli di internet"
-background: '/img/posts/03.jpg'
+background: '/img/63d4aa64-212d-4630-b08d-9e06afc12948.jpg'
 ---
 
 Il termine «cyberbullismo» indica atti di violenza psicologica perpetrati e ripetuti tramite le tecnologie informatiche: email, Facebook, Instagram, WhatsApp.

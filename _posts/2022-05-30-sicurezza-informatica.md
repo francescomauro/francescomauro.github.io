@@ -2,7 +2,7 @@
 layout: post
 title: "Sicurezza informatica"
 subtitle: "E costruzione di grafici"
-background: '/img/posts/04.jpg'
+background: '/img/0850d0d2-0371-4941-9ce3-8a8c93571e0d.jpg'
 ---
 
 La **sicurezza informatica** è una priorità di organizzazioni e aziende. Per essa si intende l’insieme di misure necessarie per la protezione di hardware, software, dati e privacy al fine di evitare danni derivanti da usi illeciti. Perciò bisogna saper essere responsabili e attenti nel proprio uso della rete.
